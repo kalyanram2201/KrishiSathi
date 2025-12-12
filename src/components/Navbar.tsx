@@ -26,7 +26,7 @@ const Navbar: React.FC = () => {
           <div className="flex items-center">
             <Link to="/" className="flex-shrink-0 flex items-center">
               <Leaf className="h-8 w-8 text-green-600" />
-              <span className="ml-2 text-xl font-bold text-gray-900">AgriSmart</span>
+              <span className="ml-2 text-xl font-bold text-gray-900">KrishiSathi</span>
             </Link>
           </div>
 
